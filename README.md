@@ -1,3 +1,14 @@
+## Redux
+## Rapid Api- Coinranking Api
+## Chart.js
+## Ant Design
+
+
+### Reference: https://youtu.be/9DDX3US3kss?si=CHKFt-Wq3H6wPtjb
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
